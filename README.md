@@ -1,2 +1,2 @@
 # docker
-Docker projects from various learning sources
+Docker projects from the "Docker Mastery: with Kubernetes +Swarm from a Docker Captain" Udemy course.
